@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://avtokontinent-uz.onrender.com/api";
+const API_BASE_URL = "http://127.0.0.1:8000/api";
 
 export async function fetcher<T>(
   url: string,
